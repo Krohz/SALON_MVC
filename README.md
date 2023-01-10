@@ -25,8 +25,9 @@ Proyecto MVC con PHP 8.1 MySQL CSS SASS JS - Responsive
 ![ver-citas](https://user-images.githubusercontent.com/90885563/211639165-7bf9353a-dbf2-41b3-86c2-9ba3bd49bb6d.png)
 
 ### Ver servicios
-#![servicios-ofrecido](https://user-images.githubusercontent.com/90885563/211639180-5f764490-a31c-4314-93b1-39a0455af545.png)
+![servicios-ofrecido](https://user-images.githubusercontent.com/90885563/211639180-5f764490-a31c-4314-93b1-39a0455af545.png)
 
 ## Phone Login
-![login mobile](https://user-images.githubusercontent.com/90885563/211639699-64200bf2-8c6b-4703-aa8b-7562b4466e4a.png)
+<img src="[https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?fit=600%2C315&ssl=1](https://user-images.githubusercontent.com/90885563/211639699-64200bf2-8c6b-4703-aa8b-7562b4466e4a.png)" width="100"></a>
+![login mobile]()
 
