@@ -2,7 +2,7 @@
 Proyecto MVC con PHP 8.1 MySQL CSS SASS JS - Responsive 
 
 ## Login
-![login](https://user-images.githubusercontent.com/90885563/211638902-5dd10ee5-7088-4c70-8764-2ffdd0d409eb.png)
+<img src="https://user-images.githubusercontent.com/90885563/211638902-5dd10ee5-7088-4c70-8764-2ffdd0d409eb.png" width="300">
 
 ## Crear Cuenta
 ![crear-cuenta](https://user-images.githubusercontent.com/90885563/211638915-4f061e43-5612-4b30-90c1-fae5c6cf4b89.png)
@@ -28,6 +28,6 @@ Proyecto MVC con PHP 8.1 MySQL CSS SASS JS - Responsive
 ![servicios-ofrecido](https://user-images.githubusercontent.com/90885563/211639180-5f764490-a31c-4314-93b1-39a0455af545.png)
 
 ## Phone Login
-<img src="https://user-images.githubusercontent.com/90885563/211639699-64200bf2-8c6b-4703-aa8b-7562b4466e4a.png" width="100">
+<img src="https://user-images.githubusercontent.com/90885563/211639699-64200bf2-8c6b-4703-aa8b-7562b4466e4a.png" width="300">
 
 
