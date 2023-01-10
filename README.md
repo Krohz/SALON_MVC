@@ -2,7 +2,7 @@
 Proyecto MVC con PHP 8.1 MySQL CSS SASS JS - Responsive 
 
 ## Login
-<img src="https://user-images.githubusercontent.com/90885563/211638902-5dd10ee5-7088-4c70-8764-2ffdd0d409eb.png" width="300">
+![login](https://user-images.githubusercontent.com/90885563/211640911-f79b014b-57f6-40c0-86c7-7728e8930662.png)
 
 ## Crear Cuenta
 ![crear-cuenta](https://user-images.githubusercontent.com/90885563/211638915-4f061e43-5612-4b30-90c1-fae5c6cf4b89.png)
